@@ -26,14 +26,14 @@
   $Id: ca.lang,v 1.5 2008/02/17 11:45:00 bmacias Exp $ */
 global $arrLangModule;
 $arrLangModule=array(
-"Date and Time Configuration" => "Configuració de la Data i l'Hora",
-"Current Datetime" => "Data y Hora actual",
-"New Date" => "Nova Data",
-"New Time" => "Nova Hora",
-"New Timezone" => "Nova Zona Horaria",
-"The change of date and time can concern important  system processes." => "El canvi de data i hora pot afectar a processos importants del sistema.",
-"System time changed correctly" => "System time changed correctly",
-"You can not change the system time" => "You can not change the system time",
-"Can not find file" => "Can not find file",
+"Date and Time Configuration" => "日期和时间设置",
+"Current Datetime" => "当前日期时间",
+"New Date" => "新日期",
+"New Time" => "新时间",
+"New Timezone" => "新时区",
+"The change of date and time can concern important  system processes." => "修改日期和时间会影响系统处理程序。",
+"System time changed correctly" => "系统时间成功修改",
+"You can not change the system time" => "不能修改系统时间",
+"Can not find file" => "没有发现文件",
 );
 ?>
