@@ -26,13 +26,13 @@
   $Id: ca.lang,v 1.5 2008/02/17 11:45:00 bmacias Exp $ */
 global $arrLangModule;
 $arrLangModule=array(
-"Shutdown" => "Apagar",
-"Accept" => "Acceptar",
-"Halt" => "Apagar",
-"Reboot" => "Reiniciar",
-"Shutdown in progress" => "Apagat en procés",
-"Your system in shutting down now. Please, try again later." => "El sistema s'està tancant en aquest moment. Si us plau, prova-ho més tard",
-"The reboot signal has been sent correctly." => "The reboot signal has been sent correctly.",
-"Continue" => "Continue"
+"Shutdown" => "关机",
+"Accept" => "接受",
+"Halt" => "停止",
+"Reboot" => "重启",
+"Shutdown in progress" => "正在关机",
+"Your system in shutting down now. Please, try again later." => "系统正在关机，请稍后重试",
+"The reboot signal has been sent correctly." => "已经发送重启信号。",
+"Continue" => "继续"
 );
 ?>
